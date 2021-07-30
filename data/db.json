@@ -1,0 +1,46 @@
+{
+	"body":[
+		{
+			"acronym":"ae",
+			"name":"aerospace engineering"
+		},
+		{
+			"acronym":"cs",
+			"name":"computer science and engineering"
+		},
+		{
+			"acronym":"me",
+			"name":"mechanical engineering"
+		},
+		{
+			"acronym":"be",
+			"name":"biomedical engineering"
+		},
+		{
+			"acronym":"ch",
+			"name":"chemical engineering"
+		},
+		{
+			"acronym":"ee",
+			"name":"electrical engineering"
+		},{
+			"acronym":"mm",
+			"name":"metallurgical&materials engineering"
+		},{
+			"acronym":"ce",
+			"name":"civil engineering"
+		},{
+			"acronym":"ep",
+			"name":"engineering physics"
+		},{
+			"acronym":"na",
+			"name":"naval architecture and ocean engineering"
+		},{
+			"acronym":"b",
+			"name":"b-tech"
+		},{
+			"acronym":"m",
+			"name":"m-tech"
+		}
+	]
+}
